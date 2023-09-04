@@ -22,7 +22,9 @@ Required Python packages installed. You can install them using pip:
 
 
 
-```pip install folium flask requests openrouteservice herepy```
+```
+pip install folium flask requests openrouteservice herepy
+```
 
 ## Getting Started
 
@@ -30,7 +32,9 @@ Clone the repository to your local machine:
 
 
 
-```git clone https://github.com/your-username/traffic-route-visualization.git```
+```
+git clone https://github.com/your-username/traffic-route-visualization.git
+```
 Change to the project directory:
 
 
@@ -43,7 +47,9 @@ Replace YOUR_OPENROUTESERVICE_API_KEY with your OpenRouteService API key.
 Run the Flask application:
 
 
-```python app.py```
+```
+python app.py
+```
 Open your web browser and go to http://localhost:5000 to access the application.
 
 ## Usage
